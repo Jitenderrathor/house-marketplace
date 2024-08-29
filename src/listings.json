@@ -1,0 +1,138 @@
+{
+	"listings": [
+		{
+			"name": "Beautiful Stratford Condo",
+			"type": "rent",
+			"userRef": "ID OF A USER",
+			"bedrooms": 2,
+			"bathrooms": 2,
+			"parking": true,
+			"furnished": true,
+			"offer": true,
+			"regularPrice": 2500,
+			"discountedPrice": 2000,
+			"location": "8601 West Peachtree St Stratford, CT 06614",
+			"geolocation": {
+				"lat": "41.205590",
+				"lng": "-73.150530"
+			},
+			"imageUrls": [
+				"https://a0.muscache.com/im/pictures/miso/Hosting-657011800148868945/original/f06d87d2-f20a-4e27-a6c7-85ddc2201ffe.jpeg?im_w=1200", 
+				"https://a0.muscache.com/im/pictures/miso/Hosting-657011800148868945/original/f06d87d2-f20a-4e27-a6c7-85ddc2201ffe.jpeg?im_w=1200",
+				"https://a0.muscache.com/im/pictures/miso/Hosting-657011800148868945/original/f06d87d2-f20a-4e27-a6c7-85ddc2201ffe.jpeg?im_w=1200"],
+			"timestamp": "00:00:00"
+		},
+		{
+			"name": "Flowery Branch Beauty",
+			"type": "sale",
+			"userRef": "ID OF A USER",
+			"bedrooms": 4,
+			"bathrooms": 3,
+			"parking": true,
+			"furnished": false,
+			"offer": false,
+			"regularPrice": 650000,
+			"location": "517 High Ridge St Flowery Branch, GA 30542",
+			"geolocation": {
+				"lat": "34.1851",
+				"lng": "-83.9252"
+			},
+			"imageUrls": [
+				"https://a0.muscache.com/im/pictures/miso/Hosting-657011800148868945/original/f06d87d2-f20a-4e27-a6c7-85ddc2201ffe.jpeg?im_w=1200",
+				"https://a0.muscache.com/im/pictures/374e4c6a-6f2a-429c-b1a2-934433411d95.jpg?im_w=1200",
+				"https://a0.muscache.com/im/pictures/374e4c6a-6f2a-429c-b1a2-934433411d95.jpg?im_w=1200"
+			],
+			"timestamp": "00:00:00"
+		},
+		{
+			"name": "Brand New Cincinnati Home",
+			"type": "sale",
+			"userRef": "ID OF A USER",
+			"bedrooms": 4,
+			"bathrooms": 2,
+			"parking": true,
+			"furnished": false,
+			"offer": true,
+			"regularPrice": 700000,
+			"discountedPrice": 690000,
+			"location": "9814B Cedar Swamp Street Cincinnati, OH 45211",
+			"geolocation": {
+				"lat": "39.144320",
+				"lng": "-84.569630"
+			},
+			"imageUrls": [
+			"https://a0.muscache.com/im/pictures/d8d629d7-9307-4b24-a8ae-b01d95e36124.jpg?im_w=1200",
+			"https://a0.muscache.com/im/pictures/d8d629d7-9307-4b24-a8ae-b01d95e36124.jpg?im_w=1200",
+			"https://a0.muscache.com/im/pictures/dfa5472f-d464-4767-b449-c695af5438ae.jpg?im_w=720"],
+			"timestamp": "00:00:00"
+		},
+		{
+			"name": "Classy Home In Clayton",
+			"type": "sale",
+			"userRef": "ID OF A USER",
+			"bedrooms": 4,
+			"bathrooms": 4,
+			"parking": true,
+			"furnished": false,
+			"offer": true,
+			"regularPrice": 720000,
+			"discountedPrice": 670000,
+			"location": "7644 Carswold Dr Clayton, MO, 63105",
+			"geolocation": {
+				"lat": "35.628690",
+				"lng": "-78.455520"
+			},
+			"imageUrls": [
+				"https://a0.muscache.com/im/pictures/ecdb8451-a26c-4d34-9a93-37dd2ef3a2f2.jpg?im_w=720",
+				"https://a0.muscache.com/im/pictures/fe7891a4-08d7-4528-b0cc-1e17fefb41e5.jpg?im_w=1440",
+				"https://a0.muscache.com/im/pictures/72748025-c7b8-4283-ae10-06be7cbb4219.jpg?im_w=1440"
+			],
+			"timestamp": "00:00:00"
+		},
+		{
+			"name": "House For Rent In Milton",
+			"type": "sale",
+			"userRef": "ID OF A USER",
+			"bedrooms": 3,
+			"bathrooms": 2,
+			"parking": true,
+			"furnished": false,
+			"offer": false,
+			"regularPrice": 630000,
+			"location": "810 North Lyme Drive Milton, MA 02186",
+			"geolocation": {
+				"lat": "42.247270",
+				"lng": "-71.053470"
+			},
+			"imageUrls": [
+				"https://a0.muscache.com/im/pictures/9d1fe2af-587e-49fc-b79a-8c98a350f7bb.jpg?im_w=1440",
+				"https://a0.muscache.com/im/pictures/9d1fe2af-587e-49fc-b79a-8c98a350f7bb.jpg?im_w=1440",
+				"https://a0.muscache.com/im/pictures/40d7c6ae-4fe2-49c9-9295-73c2976cfbab.jpg?im_w=1440"
+			],
+			"timestamp": "00:00:00"
+		},
+		{
+			"name": "Modern 3BR Apartment In FL",
+			"type": "rent",
+			"userRef": "ID OF A USER",
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"parking": true,
+			"furnished": true,
+			"offer": true,
+			"regularPrice": 2300,
+			"discountedPrice": 1900,
+			"location": "11 Buttonwood Street Fort Lauderdale, FL 33308",
+			"geolocation": {
+				"lat": "26.209080",
+				"lng": "-80.112100"
+			},
+			"imageUrls": [
+				"https://a0.muscache.com/im/pictures/a21c81e1-2abd-46cf-aaa3-09a7f78dc35c.jpg?im_w=1200",
+				"https://a0.muscache.com/im/pictures/a21c81e1-2abd-46cf-aaa3-09a7f78dc35c.jpg?im_w=1200",
+				"https://a0.muscache.com/im/pictures/9d1fe2af-587e-49fc-b79a-8c98a350f7bb.jpg?im_w=1440"
+			],
+			"timestamp": "00:00:00"
+		}
+	]
+}
